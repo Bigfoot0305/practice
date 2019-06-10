@@ -1,3 +1,3 @@
-# practice
-# practice
-# practice
+# Practice
+
+こちらはみんなの練習用リポジトリです。
